@@ -10,7 +10,7 @@ This tool demonstrates the basic usage of speech recognition in Python and can b
     🧪 Easily extendable for live mic input or batch processing
 
 ## 🧠 Technologies Used
-    Python 3.9+
+    Python 3.9+ 
     SpeechRecognition – for handling speech-to-text processing
     Google Web Speech API – used under the hood by the library
 
